@@ -39,7 +39,6 @@ As a proponent of **Software Craftsmanship**, I strive to continuously improve m
 - **Security Best Practices**: Secure coding, encryption, secure API design
 - **Vulnerability Assessment**: threat modeling
 - **DevSecOps**: Integrating security into CI/CD pipelines, automated security testing
-- **Tools**: Kali Linux, Burp Suite, OWASP ZAP, HashiCorp Vault
 
 ### Monitoring and Security
 - **Monitoring Tools**: Prometheus, Grafana
