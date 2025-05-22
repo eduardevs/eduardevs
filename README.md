@@ -1,6 +1,6 @@
-# # Hi there 👋
+# Hi there 👋
 
-I'm Eduardo Pna, a passionate **Full-Stack Developer** specializing in:
+I'm Eduardo Pina, a passionate **Full-Stack Developer** specializing in:
 - 🌐 **Backend Development** with **Python (FastAPI)** and **Node.js**  
 - 🛠️ **DevOps** practices, including **CI/CD** pipelines, **Docker**, **Kubernetes**, and **Cloud Platforms**  
 - 🛡️ **Cybersecurity** and **DevSecOps** to build secure systems and applications
