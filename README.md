@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Eduardo Pina
 
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=__eduhacks__)
- <img src="https://root-me-diff.vercel.app/rm-gh?nickname=__eduhacks__">
+ <img src="https://root-me-diff.vercel.app/rm-gh?nickname=eduhacks">
 
 **Full-Stack Developer** with a focus on **Backend**, **DevOps**, and **Cybersecurity**.
 
