@@ -1,29 +1,21 @@
 # 👋 Hello, I'm Eduardo Pina
 
+I'm an enthousiastic programmer aspiring a role in cybersecurity.
+Here the stacks in software development I'm used to work with :
+
+- 🌐 Backend: Python (FastAPI), Flask
+- ⚙️ DevOps: CI/CD, Docker, Kubernetes, AWS
+- 🛡️ DevSecOps: Kubernetes, Docker swarm
+
+
+- Secure APIs, security automation 
+- 🚀 Scalable, secure systems from code to cloud
+- Aspiring DevSecOps
+
+🛠️ Here my Cybersecurity skills in progress :
+
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=__eduhacks__)
  <img src="https://root-me-diff.vercel.app/rm-gh?nickname=eduhacks">
-
-**Full-Stack Developer** with a focus on **Backend**, **DevOps**, and **Cybersecurity**.
-
-- 🌐 Backend: Python (FastAPI), Node.js  
-- ⚙️ DevOps: CI/CD, Docker, Kubernetes, AWS/GCP  
-- 🛡️ DevSecOps: Secure APIs, security automation  
-- 🚀 Scalable, secure systems from code to cloud  
-
----
-
-## 💼 What I Do
-
-I build and maintain high-performance APIs, automate deployments, and integrate security into the development lifecycle.  
-Stack: **FastAPI**, **Node.js**, **Docker**, **Kubernetes**, **AWS/GCP**, **DevSecOps**.
-
----
-
-## 🎯 Current Goals
-
-- 🔧 **API Architecture**: Scalable, maintainable, secure  
-- ☁️ **Serverless**: Clean, cost-efficient, cloud-native solutions  
-- 🔐 **Cybersecurity**: Secure coding, threat modeling, best practices  
 
 ---
 
@@ -34,22 +26,21 @@ Stack: **FastAPI**, **Node.js**, **Docker**, **Kubernetes**, **AWS/GCP**, **DevS
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 **Backend**:  
-Python (FastAPI), Node.js, TypeScript  
+Python (FastAPI), (Flask)
 REST APIs, GraphQL, WebSockets  
 
 **Databases**:  
 PostgreSQL, MongoDB, Redis  
 
-**Authentication**:  
-JWT, OAuth  
 
 **DevOps / Cloud**:  
 GitLab CI, GitHub Actions  
-Docker, Kubernetes  
-AWS, GCP  
+Docker Swarl, Kubernetes  
+AWS
 
 **Infrastructure as Code (IaC)**:  
 Terraform, Ansible  
